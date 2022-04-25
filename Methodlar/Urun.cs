@@ -13,4 +13,7 @@ namespace Methodlar
 
         public int stockad { get; set; }
     }
-}
+}  
+
+
+
