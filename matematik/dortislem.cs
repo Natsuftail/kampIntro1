@@ -14,5 +14,8 @@ namespace matematik
             Console.WriteLine("Sonuc : "+ toplam);
 
         }
+
     }
 }
+
+

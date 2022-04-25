@@ -22,12 +22,12 @@ namespace Methodlar
             urun2.Fiyati = 80;
             urun2.Aciklama = "Diyarbakir";
 
-            Urun[] urunler = new Urun[] {urun1, urun2 };
+            Urun[] urunler = new Urun[] { urun1, urun2 };
 
 
             // type safe -- tip güvenli
 
-            foreach (Urun urun  in urunler)
+            foreach (Urun urun in urunler)
             {
                 Console.WriteLine(urun.Adi);
                 Console.WriteLine(urun.Fiyati);
@@ -47,6 +47,7 @@ namespace Methodlar
             sepetManager.ekle2("Armut", "Yesil Armut", 12);
             sepetManager.ekle2("Elma", "Yesil Elma", 12);
             sepetManager.ekle2("Karpuz", "Yesil Karpuz", 12);
+
 
 
 

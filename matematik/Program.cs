@@ -10,5 +10,8 @@ namespace matematik
             dortislem.Topla(5, 6);
             dortislem.Topla(321, 9);
         }
+        Cons
+
+       
     }
 }
